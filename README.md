@@ -1,2 +1,3 @@
 # qt-calculator
-A basic Calculator Made with Qt
+A Basic Calculator Made with Qt
+![alt text](https://github.com/virendracarpenter/Art/blob/main/qt-calculator/qt-ss.png?raw=true)
