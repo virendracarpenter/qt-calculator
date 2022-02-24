@@ -570,7 +570,7 @@ QPushButton:pressed {
       </widget>
      </item>
      <item row="3" column="3">
-      <widget class="QPushButton" name="pushButton_multiplication">
+      <widget class="QPushButton" name="pushButton_multiply">
        <property name="sizePolicy">
         <sizepolicy hsizetype="MinimumExpanding" vsizetype="Expanding">
          <horstretch>0</horstretch>
